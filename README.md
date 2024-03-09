@@ -8,7 +8,7 @@ Projeto Console em C# que será utilizado como forma de avaliação no processo 
 **1. Clone o repositório** 
 
 ```
-https://github.com/jacks0nsilva/DesafioTarget.git
+git clone https://github.com/jacks0nsilva/DesafioTarget.git
 ```
 
 **2. Navegue até o diretório do projeto**
